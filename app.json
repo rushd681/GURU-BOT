@@ -8,12 +8,12 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb+srv://HydraRush:darkqueen123@cluster0.8x6c2ee.mongodb.net/",
       "required": false,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~sc4NPK50",
       "required": true,
       "value": ""
     },
